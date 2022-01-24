@@ -1,0 +1,6 @@
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\bin\Debug\ElevenNote.Services.dll
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\bin\Debug\ElevenNote.Services.pdb
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.AssemblyReference.cache
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
