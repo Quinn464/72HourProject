@@ -1,4 +1,4 @@
-﻿using ElevenNote.Data;
+﻿using Meow.Data;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System;

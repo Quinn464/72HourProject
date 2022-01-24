@@ -56,4 +56,3 @@ C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Data\bin\Debug\System.Web.Web
 C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Data\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Data\bin\Debug\System.Web.Razor.xml
 C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Data\bin\Debug\System.Web.WebPages.Deployment.xml
-C:\Users\qinn\source\repos\72HourPoject\ElevenNote.Data\obj\Debug\Meow.Data.csproj.CopyComplete
