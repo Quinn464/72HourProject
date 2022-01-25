@@ -189,6 +189,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Controllers\CatmentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -279,6 +280,16 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ElevenNote.Models\Meow.Models.csproj">
+      <Project>{5F2E73F2-4D28-4A8D-B4D6-C419C0659466}</Project>
+      <Name>Meow.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ElevenNote.Services\Meow.Services.csproj">
+      <Project>{11F4E299-7B81-4B57-BACE-0BABE2EB4C21}</Project>
+      <Name>Meow.Services</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
